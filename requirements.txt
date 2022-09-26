@@ -18,12 +18,13 @@ psutil
 psycopg2-binary
 pyYAML>=5.1.2
 pyrate-limiter
-python-telegram-bot==13.14
+python-telegram-bot==13.13
 requests
 spamwatch
 speedtest-cli
 sqlalchemy==1.4.40
-telethon==1.25.0
+telethon==1.16.4
+pyrogram==2.0.41
 ujson
 pycryptodome
 base58
@@ -46,6 +47,7 @@ random2
 motor
 pySmartDL
 pymongo
+pyromod
 openapi-codec
 pathlib
 wheel-inspect
@@ -56,4 +58,6 @@ envparse
 typing
 bs4
 humanize
-redis~=4.3.4
+redis~=4.2.2
+uvicorn[standard]
+fastapi
