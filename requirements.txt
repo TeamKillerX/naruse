@@ -24,7 +24,7 @@ spamwatch
 speedtest-cli
 sqlalchemy==1.4.40
 telethon==1.16.4
-pyrogram==2.0.41
+pyrogram==2.0.60
 ujson
 pycryptodome
 base58
