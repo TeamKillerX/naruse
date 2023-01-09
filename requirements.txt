@@ -58,6 +58,6 @@ envparse
 typing
 bs4
 humanize
-redis~=4.2.2
+redis~=4.4.1
 uvicorn[standard]
 fastapi
